@@ -1,6 +1,6 @@
 # modern-javascript-deep-dive
 
-![모던 자바스크립트 deep dive](https://github.com/alwubin/modern-javascript-deep-dive/assets/135022491/e53e3b6e-856b-4e3d-9974-bb718f4b1f49)
+<img src="모던 자바스크립트 deep dive.jpeg"/>
 
 > 모던 자바스크립트 Deep Dive를 읽고 학습한 것에 대한 저장소입니다.
 
